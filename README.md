@@ -12,4 +12,5 @@ Implementing a GPT (Generative Pre-trained Transformer) model from scratch, guid
 - Further Training can be done
 - For inference only need (model.py, model_state_dict.pt and streamlit.py files)
 - Run the streamlit interface with `streamlit run streamlit.py` 
-![Streamlit Implementation](streamlit\ implementation.png)
+![Streamlit Implementation](streamlit%20implementation.png)
+
